@@ -4,7 +4,7 @@ const fs = require("fs");
 const readmeFile = "README.md";
 
 // Get the current year and calculate experience
-const startYear = 2019; // Change if your experience started earlier
+const startYear = 2021; // Change if your experience started earlier
 const yearsOfExperience = new Date().getFullYear() - startYear;
 
 // Read the README file
