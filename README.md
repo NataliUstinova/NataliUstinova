@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Natalia Ustinova
 
-**Frontend Developer | 4 Years Experience | React & Next.js**
+**Frontend Developer | 5 Years Experience | React & Next.js**
 
 ---
 
