@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,regex,aws,azure,figma,prisma,mongodb,firebase,netlify,docker,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,regex,aws,azure,figma,prisma,mongodb,firebase,netlify,docker,neovim)](https://skillicons.dev)
 ---
 <a href="https://www.codewars.com/users/NataliaUstinova">
   <img src="https://www.codewars.com/users/NataliaUstinova/badges/large" alt="Codewars Badge" />
