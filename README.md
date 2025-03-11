@@ -14,7 +14,7 @@
 
 ## About Me
 
-With 8 years in IT as a Project & Content Manager, I transitioned into programming to follow my passion. After completing an intensive 18-month web development course at Yandex EdTech, I have been working professionally as a frontend developer, specializing in React and Next.js. I thrive on solving complex problems and am always eager to learn new technologies.
+I have been working in IT since 2015, first as a Project & Content Manager, then I transitioned into programming to follow my passion. After completing an intensive 18-month web development course at Yandex EdTech, I have been working professionally as a frontend developer, specializing in React and Next.js. I thrive on solving complex problems and am always eager to learn new technologies.
 
 ---
 
